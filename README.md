@@ -2,9 +2,9 @@
 
 1. Retrieve the total number of orders placed.  
 
- 2.Calculate the total revenue generated from pizza sales.  
+2.Calculate the total revenue generated from pizza sales.  
 
- 3.Identify the hightest- priced pizza.  
+3.Identify the hightest- priced pizza.  
 
 4. Identify the most common pizza size ordered.    
 
