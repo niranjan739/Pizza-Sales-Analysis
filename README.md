@@ -1,8 +1,8 @@
 # Pizza-Sales-Analysis
 
-1. Retrieve the total number of orders placed.
-2.Calculate the total revenue generated from pizza sales.
-3.Identify the hightest- priced pizza. 
+1. Retrieve the total number of orders placed. 
+2.Calculate the total revenue generated from pizza sales.  
+3.Identify the hightest- priced pizza.    
 4. Identify the most common pizza size ordered.
 5. List the top 5 most ordered pizza types along with their quantities.
 6. Join the necessary table to find the total quantity of each pizza category ordered.
