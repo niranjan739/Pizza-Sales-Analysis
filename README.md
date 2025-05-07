@@ -2,9 +2,9 @@
 
 1. Retrieve the total number of orders placed.  
 
-2.Calculate the total revenue generated from pizza sales.  
+2. Calculate the total revenue generated from pizza sales.  
 
-3.Identify the hightest- priced pizza.  
+3. Identify the hightest- priced pizza.  
 
 4. Identify the most common pizza size ordered.    
 
@@ -14,7 +14,7 @@
 
 7. Determine the distribution of orders by hour of the day.  
 
-8.Join relevant tables to find the category-wise  distribution of pizzas.  
+8. Join relevant tables to find the category-wise  distribution of pizzas.  
 
 9. Group the orders by date and calculate the average number of pizzas ordered per day.  
 
